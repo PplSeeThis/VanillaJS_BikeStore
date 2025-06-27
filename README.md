@@ -2,8 +2,7 @@
 
 A responsive and interactive e-commerce storefront for a bike store, built entirely with Vanilla JavaScript, HTML5, and CSS3. This project demonstrates core JavaScript principles without relying on any external frameworks or libraries.
 
-[![Bike Store Screenshot](https://i.imgur.com/example.png) 
-*<-- IMPORTANT: Replace this with a real screenshot of your project!*](https://PplSeeThis.github.io/VanillaJS_BikeStore/)
+https://PplSeeThis.github.io/VanillaJS_BikeStore/
 
 ---
 
